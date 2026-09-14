@@ -20,28 +20,3 @@ Technologies Used
 HTML
 CSS
 JavaScript
-[Add your other technologies here]
-Getting Started
-Clone the repository
-git clone https://github.com/Baronizume/Campus-Connect-Sprint-11.git
-
-Open the project
-
-Navigate into the project directory:
-
-cd Campus-Connect-Sprint-11
-
-
-Then open the project using your preferred development environment.
-
-Repository
-
-GitHub: https://github.com/Baronizume/Campus-Connect-Sprint-11
-
-Author
-
-Baronizume
-
-License
-
-This project is developed for academic purposes.
